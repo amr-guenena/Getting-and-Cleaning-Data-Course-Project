@@ -6,8 +6,6 @@ The source data for this project can be found here.
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
 (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
 
-## run the script Getting_Data_Project.R to generate required tidydata.txt
-
 ##Data Set Information
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities 
 ### Data Set Files
@@ -87,7 +85,9 @@ Assign column names and merge to create one data set. (tdf_data_all)
   
 ###5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
 tidy_data<-data_table  
-write.table(tidy_data, file = "tidydata.txt",row.name=FALSE)  
+
+### run the script Getting_Data_Project.R to generate required tidydata.txt
+
 
 ## Tidy Data set Structure  
 str(tidy_data)  

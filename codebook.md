@@ -86,7 +86,7 @@ Assign column names and merge to create one data set. (tdf_data_all)
 ###5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  
 tidy_data<-data_table  
 
-### run the script Getting_Data_Project.R to generate required tidydata.txt
+### run the script run_analysis.R to generate required tidydata.txt
 
 
 ## Tidy Data set Structure  

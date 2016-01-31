@@ -1,6 +1,10 @@
 ##Source Data
-A full description of the data used in this project can be found at The UCI Machine Learning Repository
-The source data for this project can be found here.
+A full description of the data used in this project can be found at The UCI Machine Learning Repository  
+[http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones]  (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)  
+
+The source data for this project can be found here.  
+[https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip]
+(https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)  
 
 ##Data Set Information
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years. Each person performed six activities 
